@@ -24,8 +24,7 @@
 #### Hobbies
 
 * Making music
-* City trip :
-My favorites ones : 
+* City trip -> My favorites ones : 
     - Belgrade
     - Berlin
     - Sarajevo
