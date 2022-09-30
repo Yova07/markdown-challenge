@@ -40,6 +40,6 @@ You're struggling with something, except if I'm struggling too.
 
 When I was kid, I had a plastic lizard. My father told me that when a lizard lost its tail, it grew back. So I cut off its tail and waited to see it grow back... I'm still waiting...
 
-<< [Previous](https://github.com/hanaelle/markdown-challenge) || Igor || [Next](https://github.com/TreshMiralissa/markdown-challenge-)
+<< [Previous](https://github.com/hanaelle/markdown-challenge) || Igor || [Next](https://github.com/TreshMiralissa/markdown-challenge-) >>
 
 
