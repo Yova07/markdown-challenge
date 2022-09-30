@@ -23,8 +23,6 @@
 
 #### Hobbies
 
-<br/>
-
 * Making music
 * City trip -> My favorites ones : 
     - Belgrade
@@ -36,15 +34,11 @@
 
 #### You can always count on me when...
 
-<br/>
-
 You're struggling with something, even if I'm struggling too.
 
 <br/>
 
 #### Funny story 
-
-<br/>
 
 When I was kid, I had a plastic lizard. My father told me that when a lizard lost its tail, it grew back. So I cut off its tail and waited to see it grow back... I'm still waiting...
 
