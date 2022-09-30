@@ -29,11 +29,10 @@
     - Berlin
     - Sarajevo
 * Netflix
-* GitHub
 
 #### You can always count on me when...
 
-You're struggling with something, except if I'm struggling too.
+You're struggling with something, even if I'm struggling too.
 
 #### Funny story 
 
