@@ -1,5 +1,4 @@
 # Igor Jovanovic
------------------
 
 
 >*Better late than never*
@@ -10,7 +9,6 @@
 
 
 ### *"The cure for boredom is curiosity"*
--------------------------------------------
 
 <br/>
 
@@ -24,7 +22,6 @@
 <br/>
 
 #### Hobbies
---------------
 
 <br/>
 
@@ -38,7 +35,6 @@
 <br/>
 
 #### You can always count on me when...
------------------------------------------
 
 <br/>
 
@@ -47,7 +43,6 @@ You're struggling with something, even if I'm struggling too.
 <br/>
 
 #### Funny story 
------------------
 
 <br/>
 
